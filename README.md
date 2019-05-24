@@ -1,6 +1,6 @@
 # trim_lines
 
-**NOTE**: This crate is **depreciated**. You should be using `map(str::trim)` instead:
+**NOTE**: This crate is **deprecated**. You should be using `map(str::trim)` instead:
 
 ```rust
 fn main() {
